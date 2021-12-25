@@ -5,5 +5,5 @@ emaill="zo6um4e77a@xojxe.com'
 passwordd="Dadara2222"
 custompwd=""
 private=""
-chatlink=""w
+chatlink="http://aminoapps.com/p/j7mdq72"
 nickname="hachiko
