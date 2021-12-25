@@ -6,4 +6,4 @@ passwordd="Dadara2222"
 custompwd="fakeaccpwd"
 private="e3380aa8-d724-4982-aceb-a3840fb5d00d"
 chatlink="http://aminoapps.com/p/j7mdq72"
-nickname="hachiko
+nickname="hachiko"
