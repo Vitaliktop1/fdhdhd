@@ -1,4 +1,4 @@
-key='key'
+key='6668b825-72f7-41cd-b74d-dc96a041b019'
 app_name="accgen5555"
 deviceid=""
 emaill=""
