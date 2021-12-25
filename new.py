@@ -5,5 +5,5 @@ emaill="zo6um4e77a@xojxe.com'
 passwordd="Dadara2222"
 custompwd=""
 private=""
-chatlink=""
-nickname=""
+chatlink=""w
+nickname="hachiko
